@@ -1,0 +1,1 @@
+numpy_financial==1.0.0
