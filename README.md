@@ -122,7 +122,7 @@ If you encounter any problems while setting up or running the application, pleas
 ```
 MIT License
 
-Copyright (c) 2023 George Namoc
+Copyright (c) 2023 George Giosue
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
